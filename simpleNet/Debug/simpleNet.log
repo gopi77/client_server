@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  ServerNetwork.cpp
+  ServerGame.cpp
+e:\project\simple_network\servergame.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  NetworkServices.cpp
+  main.cpp
+  ClientNetwork.cpp
+  ClientGame.cpp
+e:\project\simple_network\clientgame.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  simpleNet.vcxproj -> E:\project\simple_network\simpleNet\Debug\simpleNet.exe
+  simpleNet.vcxproj -> E:\project\simple_network\simpleNet\Debug\simpleNet.pdb (Full PDB)
